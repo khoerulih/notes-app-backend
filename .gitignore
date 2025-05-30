@@ -1,3 +1,5 @@
 node_modules
 notes-api-webserver.pem
 khoerul_iam_credentials.csv
+.env
+.prod.env
