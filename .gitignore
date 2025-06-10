@@ -3,3 +3,4 @@ notes-api-webserver.pem
 khoerul_iam_credentials.csv
 .env
 .prod.env
+src/api/uploads/file
